@@ -22,8 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/chaselyn-pugh-293132133"
       },
     ]
   },
@@ -34,12 +33,12 @@
       ]
     },
     {
-      "name": "Mobile Applications",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Reverse Engineering",
       "keywords": [
       ]
     }
@@ -51,10 +50,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Assembly"
       ]
     },
     {
@@ -64,8 +62,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
