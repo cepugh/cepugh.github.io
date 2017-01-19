@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Dataflow COI
 permalink: projects/micromouse
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Knowledge Sharing
+  - Crowd Sourcing
+summary: Enabled greater learning amongst a large enterprise by creating a community of interest (COI)
 ---
 
 <div class="ui small rounded images">
@@ -19,11 +18,9 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Before taking some time of to finish my Computer Science degree at UH Manoa, I worked for Booz Allen Hamilton as a cyber analyst for a Department of Defense client. During my time with this client, myself and a few fellow analysts recognized some serious problems with how information was spread throughout the enterprise and the way people were educated about these things. We created a community of interest to tackle a specific gap in the understanding of how certain systems worked and how analysts could benefit from understanding them. Our team congregated knowledge from multiple sources and experts on specific systems and made it digestible to the common analyst. We created an in-depth presentation that was presented multiple times to large groups. Then using new technologies to enhance learning, it was recorded and archived on a community webpage for future analysts to view. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+I learned many things from this experience! First of all, in a technical work environments, documentation of knowledge is crucial! In a lot cases, the knowledge we found was from a person who experienced it, and we never would have known about their "secret" had we not asked them individually. If they had an easy way to share their knowledge, they probably would have. I think it is crucial for an enterprise or group of people working on similar things to set up easy, effective, and standardize ways of documenting knowledge. Also, multiple people working on technical problems almost always yields better results. More brains equal more brain power!
 
 
 
