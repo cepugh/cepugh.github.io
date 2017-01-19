@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/waterfall.JPG
 title: Dataflow COI
-permalink: projects/micromouse
-date: 2015
+permalink:
+date: 2017
 labels:
   - Knowledge Sharing
   - Crowd Sourcing
