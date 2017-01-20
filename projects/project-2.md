@@ -8,5 +8,5 @@ date: 2015
 labels:
   - Python
   - Knowledge Sharing
-summary: 
+summary: "Assisted in teaching Python to beginners at Booz Allen Hamilton sponsored PyNight events"
 ---
