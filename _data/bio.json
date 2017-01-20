@@ -88,8 +88,9 @@
       "summary": "",
       "highlights": [
         "Provided techinical consulting to a Department of Defence client by providing in-depth analysis to characterize malicious activity and provide new innovative ways of discovering cyber activity.",
-        "",
-        "Data manipulation and data driven analytics"
+        "Utilized Python scripts to automate data manipulation and improve analysis across target sets and increase analysis efficiency",
+        "Created C++ analytics to parse, extract, and normalize data, enabling intelligence analysis that otherwise would have been unavailable",
+        "Conducted malware analysis to enable further understanding of tactics, techniques and protocols of advanced persisten threats (APTS)"
       ]
     },
     {
