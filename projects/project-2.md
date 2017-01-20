@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PythonTeaching.JPG
+image: images/Pynight.JPG
 title: PyNights
 permalink: 
 date: 2015
