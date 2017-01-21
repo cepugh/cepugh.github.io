@@ -4,7 +4,7 @@ type: project
 image: images/waterfall.JPG
 title: Dataflow COI
 permalink:
-date: 2017
+date: 2014
 labels:
   - Knowledge Sharing
   - Crowd Sourcing
