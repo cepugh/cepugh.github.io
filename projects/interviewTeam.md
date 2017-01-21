@@ -7,7 +7,7 @@ permalink:
 date: 2016
 labels:
   - Team Management
-summary: Built, organized, and co-lead an interview team for a Hawaii-based contract for Booz Allen Hamilton
+summary: Built, organized, and co-led an interview team for a Hawaii-based contract for Booz Allen Hamilton
 ---
 
 When I first got to Hawaii, the contract I was working on for Booz Allen Hamilton was based out of Maryland, but had a small amount of people in Hawaii. The team was in the process of increasing personnel. There were no set defined hiring processes in place due to the small numbers. Since the team was in search of new talent, I decided to jump in and help establish some processes!
