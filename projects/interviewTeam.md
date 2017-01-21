@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/beach.JPG
+image: images/Beach.JPG
 title: Interview Team
 permalink: 
 date: 2016
