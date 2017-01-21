@@ -1,0 +1,16 @@
+---
+layout: essay
+type: essay
+title: My Software Engineering Journey
+date: 2017-01-18
+labels:
+  - Software Engineering
+---
+
+My software engineering journey If you would have asked my ten years ago, where I would end up, I never would have guessed in the computer science field! I joined the Marine Corps at 17 and served for five years. My job in the Marine Corps was as an intelligence analyst, however I quickly found myself drawn to the more technical aspects of the job. There were offices that focused on cyber activity, both offense and defense. At that point I tried endlessly to move over to those offices. I started my degree in computer science while in the Marines and have since been slowly been tackling it online. After I got out of the Marines, I got a really good job in a more technical capacity with Booz Allen Hamilton. I really loved my job and the community, but the parts I loved the most were the opportunities I had to code or focus on how systems worked! I also really enjoyed the malware aspect of the cyber security world and I dabbled a bit in reverse engineering.
+
+Along the way, I realized my true passion wasn’t in analysis, but in using the knowledge of how things worked to solve problems or build things with code that could solve those problems. I felt like the computer science field was where I belonged. I have two small children and I felt like doing an analyst job I didn’t like while taking classes online wasn’t getting me anywhere. I also had no time to gain actual programming skills! So at that point (sadly, I should have just ripped the band-aid long before) I decided to quit my job and complete my degree at UH Manoa. I am currently in my first semester and I am very optimistic!  
+
+When quitting my job, I thought I would focus on cyber security and was even a bit disappointed that I was too far along in ICS to do computer engineering.  However, as I get more exposure into the outside world (not government) of software engineering, I am having second thoughts! I am finding myself drawn to some of the really amazing things people are doing with data science, visualizations and application development, especially when it is coupled with an area I am passionate about.  For instance, I stumbled across a cool organization called Digital Humanitarians (http://www.digital-humanitarians.com/) where they are using big data for humanitarian aid. I think my dream is to use my technical skills to help people, whether that be in humanitarian aid or other projects that make a difference (maybe clean energy). So now I find that I’m not so sure I want to continue down the cyber security route! I hope that joining some clubs or organizations at UH Manoa might help me choose what direction to head. In the mean time, I plan on beefing up my programming skills and learning as much as possible! I feel like there is so much potential in this field and I don’t regret quitting my job at all (hopefully that attitude doesn’t change before I graduate!).
+
+
