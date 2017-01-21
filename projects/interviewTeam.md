@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/beach.JPG
 title: Interview Team
 permalink: 
 date: 2016
