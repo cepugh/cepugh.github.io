@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+title: Interview Team
+permalink: 
+date: 2016
 labels:
   - Team Management
 summary: Built, organized, and co-lead an interview team for a Hawaii-based contract for Booz Allen Hamilton
