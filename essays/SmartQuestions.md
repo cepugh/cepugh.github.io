@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Asking the Right Question
-date: 2017-01-18
+date: 2017-01-26
 labels:
   - Software Engineering
   - Learning
