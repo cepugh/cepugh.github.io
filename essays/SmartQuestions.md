@@ -16,16 +16,6 @@ labels:
   
 Here are some examples of real questions asked by people on Stack Exchange.
 
-GOOD:
-
-
-- Very clear subject line that was specific to the problem
-- The body of the question is very precise and has the posted code for others to inspect 
-- The problem appears to be something they have already atttempted and failed at finding a solution
-- It seems to be a good question since it has been viewed many times and has complete and helpful awnsers
-
-<a href="http://stackoverflow.com/questions/41711621/reactjs-material-ui-how-to-use-material-ui-s-flatbutton-and-dialog-in-each-ta" style="color: rgb(0,128,255)">Click here for full Question</a>
-
 
 **Example of Poorly Asked Question:**
 
@@ -34,7 +24,16 @@ GOOD:
 - This person pasted a bunch of code without much context or what errors they were getting
 - It was voted down 14 times and the comments are mostly "Ask better questions!" 
 - One person even linked to a specific stack overflow post on how to ask questions! <a href="http://stackoverflow.com/help/how-to-ask" style="color: rgb(0,128,255)">http://stackoverflow.com/help/how-to-ask</a>
+- <a href="http://stackoverflow.com/questions/37880319/why-is-the-code-below-not-working" style="color: rgb(0,128,255)">Click here for full Question</a>
 
+**Example of a Good Question!**
+
+
+- Very clear subject line that was specific to the problem
+- The body of the question is very precise and has the posted code for others to inspect 
+- The problem appears to be something they have already atttempted and failed at finding a solution
+- It seems to be a good question since it has been viewed many times and has complete and helpful awnsers
+- <a href="http://stackoverflow.com/questions/41711621/reactjs-material-ui-how-to-use-material-ui-s-flatbutton-and-dialog-in-each-ta" style="color: rgb(0,128,255)">Click here for full Question</a>
 
 
 
