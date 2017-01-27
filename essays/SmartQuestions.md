@@ -27,6 +27,9 @@ labels:
 - One person even linked to a specific stack overflow post on how to ask questions! <a href="http://stackoverflow.com/help/how-to-ask" style="color: rgb(0,128,255)">http://stackoverflow.com/help/how-to-ask</a>
 - <a href="http://stackoverflow.com/questions/37880319/why-is-the-code-below-not-working" style="color: rgb(0,128,255)">Click here for full Question</a>
 
+
+
+
 **Example of a Good Question!**
 
 <img class="Example of Well Asked Question" src="../images/goodQuestion.png">
