@@ -28,6 +28,7 @@ GOOD:
 
 
 **Example of Poorly Asked Question:**
+
 <img class="Example of Poorly Asked Question" src="../images/badQuestion.png">
 
 - This person pasted a bunch of code without much context or what errors they were getting
