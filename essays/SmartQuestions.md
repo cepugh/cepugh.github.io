@@ -27,6 +27,7 @@ GOOD:
 <a href="http://stackoverflow.com/questions/41711621/reactjs-material-ui-how-to-use-material-ui-s-flatbutton-and-dialog-in-each-ta" style="color: rgb(0,128,255)">Click here for full Question</a>
 
 
+**Example of Poorly Asked Question:**
 <img class="Example of Poorly Asked Question" src="../images/badQuestion.png">
 
 - This person pasted a bunch of code without much context or what errors they were getting
