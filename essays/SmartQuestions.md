@@ -14,13 +14,14 @@ labels:
   I think we can all say we’ve had conversations with well intentioned people asking a seemingly simple question, while in your head you are screaming “I am not Google!”.  This is the world that the more advanced software engineers and developers live in, especially since most basic questions have been asked before and documented in a forum that is easily Google-able.  But at the same time, technical world can also be very challenging for beginners, so of course a lot of questions need to be asked! A lot of beginngers aren’t sure which questions are considered “dumb” questions or good questions.  Bombarding experts with simple, Google-able questions wastes everybody’s time. To address this, Eric Raymond provided a really great <a href="http://www.catb.org/esr/faqs/smart-questions.html" style="color: rgb(0,128,255)">article</a> on how to ask smart questions!  This light humored article really helps lay out the types of questions that are likely to gain attention or be thrown to the wayside.  It definitely gave me a better insight into how I can improve my questions and thoughts! As Eric Raymond said ““It's OK to be ignorant; it's not OK to play stupid.“
   
   
-Here are some examples of real questions asked by people on Stack Exchange.
+
 
 
 **Example of Poorly Asked Question:**
 
 <img class="Example of Poorly Asked Question" src="../images/badQuestion.png">
 
+- The subject line doesn't indicate what type of problem the user is facing
 - This person pasted a bunch of code without much context or what errors they were getting
 - It was voted down 14 times and the comments are mostly "Ask better questions!" 
 - One person even linked to a specific stack overflow post on how to ask questions! <a href="http://stackoverflow.com/help/how-to-ask" style="color: rgb(0,128,255)">http://stackoverflow.com/help/how-to-ask</a>
@@ -28,6 +29,7 @@ Here are some examples of real questions asked by people on Stack Exchange.
 
 **Example of a Good Question!**
 
+<img class="Example of Well Asked Question" src="../images/goodQuestion.png">
 
 - Very clear subject line that was specific to the problem
 - The body of the question is very precise and has the posted code for others to inspect 
