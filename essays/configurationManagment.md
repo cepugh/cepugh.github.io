@@ -8,8 +8,7 @@ labels:
   - Learning
   - Configuration Managment
 ---
-<div style="text-align:center">
-<img class="Configuration Managment" src="../images/configuration_managment.jpeg" align="center">
+<div style="text-align:center"><img class="Configuration Managment" src="../images/configuration_managment.jpeg" align="center">
 
 I have yet to work on a large scale software project, so I haven't been in a situation to truely appreciate configuration management. I have learned enough about it and understand what goes into creating software to be able to appreciate it! The idea of keeping everything and everyone in sync seems daunting, so I am glad these systems were invented before I entered the field!
 
