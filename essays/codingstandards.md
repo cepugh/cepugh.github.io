@@ -14,7 +14,6 @@ As projects grow in size, coding standards become more and more imperative. Codi
 
 With all this being said, I understand the initial frustration with it! For example, I have grown really fond of using (i++) to increment the value of i up one. Turns out it is frowned upon by the coding standard we are using for our coding projects in my software engineering course. We are using the Airbnb JavaScript Style Guide with Eslint. Take a look...
 
-<blockquote>Avoid using unary increments and decrements (++, --). eslint
-Why? Per the eslint documentation, unary increment and decrement statements are subject to automatic semicolon insertion and can cause silent errors with incrementing or decrementing values within an application. It is also more expressive to mutate your values with statements like num += 1 instead of num++ or num ++. Disallowing unary increment and decrement statements also prevents you from pre-incrementing/pre-decrementing values unintentionally which can also cause unexpected behavior in your programs.</blockquote>
+<img src="Github-clip.png" alt="JavaScript Style Guide ScreenShot">
 
   I guess they have a pretty good reason. Im sure I'll adjust for the greater good of coding.
