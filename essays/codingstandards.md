@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Coding Standards: A Necessary Evil
 date: 2017-01-18
 labels:
   - JavaScript
   - Coding Standards
 ---
-<h3>Coding Standards</h3>
-For me, coding standards are not the most exciting aspect of programming, but I will admitt that they are definitely one of the most important concepts to ensure quality software. I think a lot of people see it as a necessary evil. Just as grammar and composition are important to any written language, coding standards set out important guidelines and rules for programs.
+<h3>Importance of Standards</h3>
+For me personally, coding standards are not the most exciting aspect of programming. However, I will admitt that they are definitely one of the most important concepts to ensure quality software. I think a lot of people see it as a necessary evil. Just as grammar and composition are important to any written language, coding standards set out important guidelines and rules for programs.
 
-As projects grow in size, coding standards become more and more imperative. Coding standards ensure that software written by dozens or even hundreds of people are consistent and efficient. I can only imagine how frustrating it would be to read code from multiple people, all with their own style or nuisances. Even more, fixing bugs with dozen's of different "coding flavors" implemented in the SAME piece of software. It would be a mess and not to mention unprofessional.
+As projects grow in size, coding standards become more and more imperative. Coding standards ensure that software written by dozens or even hundreds of people are consistent and efficient. I can only imagine how frustrating it would be to read code from multiple people, all with their own style or nuisances. Even more, fixing bugs with dozens of different "coding flavors" implemented in the SAME piece of software. It would be a mess and not to mention unprofessional. Also, everybody tends to think that their way of coding is somehow superior to everyone else's code. Standards set a level playing field and maybe help avoid some petty arguments.
 
 <h3>JavaScript with Eslint</h3>
 With all this being said, I understand the initial frustration with it! For example, I have grown really fond of using (i++) to increment the value of i up one. It turns out, it is frowned upon by the coding standards we are using for our projects in my software engineering course. We are using the Airbnb JavaScript Style Guide with Eslint. Take a look...
