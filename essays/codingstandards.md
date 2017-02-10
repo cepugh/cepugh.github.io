@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards, A Necessary Evil
+title: Coding Standards/: a Necessary Evil
 date: 2017-02-09
 labels:
   - Coding Standards
