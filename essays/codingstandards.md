@@ -14,6 +14,6 @@ As projects grow in size, coding standards become more and more imperative. Codi
 
 With all this being said, I understand the initial frustration with it! For example, I have grown really fond of using (i++) to increment the value of i up one. Turns out it is frowned upon by the coding standard we are using for our coding projects in my software engineering course. We are using the Airbnb JavaScript Style Guide with Eslint. Take a look...
 
-<img src="Github-clip.png" alt="JavaScript Style Guide ScreenShot">
+<img src="../images/Github-clip.png" alt="JavaScript Style Guide ScreenShot">
 
   I guess they have a pretty good reason. Im sure I'll adjust for the greater good of coding.
