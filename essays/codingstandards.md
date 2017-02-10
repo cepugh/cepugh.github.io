@@ -8,7 +8,7 @@ labels:
   - Coding Standards
 ---
 
-<h3>Importance of Standards</h3>
+
 For me personally, coding standards are not the most exciting aspect of programming. However, I will admitt that they are definitely one of the most important concepts to ensure quality software. I think a lot of people see it as a necessary evil. Just as grammar and composition are important to any written language, coding standards set out important guidelines and rules for programs.
 
 As projects grow in size, coding standards become more and more imperative. Coding standards ensure that software written by dozens or even hundreds of people are consistent and efficient. I can only imagine how frustrating it would be to read code from multiple people, all with their own style or nuisances. Even more, fixing bugs with dozens of different "coding flavors" implemented in the SAME piece of software. It would be a mess and not to mention unprofessional. Also, everybody tends to think that their way of coding is somehow superior to everyone else's code. Standards set a level playing field and maybe help avoid some petty arguments.
