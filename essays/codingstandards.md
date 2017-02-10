@@ -1,10 +1,11 @@
 ---
 layout: essay
 type: essay
-title: My Software Engineering Journey
-date: 2017-01-18
+title: Coding Standards, A Necessary Evil
+date: 2017-02-09
 labels:
-  - Software Engineering
+  - Coding Standards
+  - JavaScript
 ---
 
 For me personally, coding standards are not the most exciting aspect of programming. However, I will admitt that they are definitely one of the most important concepts to ensure quality software. I think a lot of people see it as a necessary evil. Just as grammar and composition are important to any written language, coding standards set out important guidelines and rules for programs.
