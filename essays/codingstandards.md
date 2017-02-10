@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Coding Standards: A Necessary Evil
-date: 2017-01-18
+date: 2017-02-09
 labels:
   - JavaScript
   - Coding Standards
