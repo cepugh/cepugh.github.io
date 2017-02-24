@@ -15,4 +15,4 @@ On that note, my software engineering class had an entire week of building websi
 For the most part, the UI Semantic framework was just as easy as directly using HTML and CSS. Because I wasn’t proficient in any of this before, it was no different to me whether I was looking up how to create something in HTML/CSS or looking for a class that did the same thing in UI Semantic. The UI framework is also much more powerful, so I feel like UI Semantic has my vote.
 
 
-<img class="ui medium center image" src="../images/ui.png">
+<img class="ui centered medium image" src="../images/ui.png">
