@@ -27,7 +27,7 @@ Add item page (where users can add their own item)
 New user goes to landing page, logs in, gets home page, sets up profile.
 Admin goes to landing page, logs in, gets home page, edits site.
 User goes to landing page, logs in, gets Main adventure page, browses items, rates items
-User is notified of study sesh, responds. (Can they respond via text message?)
-User checks their status with respect to game mechanics.
+User goes to landing page, logs in, goes to add item page, adds new adventure item
+User goes to landing page, logs in, goes to friends profile page to check what they've added
 
 ### Beyond the basic
