@@ -7,7 +7,8 @@ labels:
   - Software Engineering
   - Meteor
 ---
-<img class="ui medium centered rounded image" src="../images/goodQuestion.png">
+<img class="ui medium centered rounded image" src="../images/frustration.png">
+
 ## Meteor: A Love-Hate Relationship
 
 As I have mentioned in previous posts, I am brand new to web-application development. This brings with it some good and bad aspects. I have no previous attachments to web application frame works or tools. I get to listen to the gripes and groans of fellow students as I just embrace learning a whole new concept. There are definitely some disadvantages though. For instance, I am learning Meteor, which functions quite differently from other frame works, and I am enjoying it thus far, but how do I know if this is the best tool! What if the other frame works are better! The more experience student's might be a bit frustrated with the new functionality of Meteor, but at least they have something to compare it to and can go forward in their careers and accurately choose the best tool for the job. Hopefully Meteor is what the professor is selling it to be and I will have a good tool in my tool box for future development.
