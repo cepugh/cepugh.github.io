@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-<img class="ui medium centered rounded image" src="../images/frustration.png">
+<img class="ui medium centered rounded image" src="../images/frustration.jpg">
 
 ## Meteor: A Love-Hate Relationship
 
