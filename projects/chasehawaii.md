@@ -34,9 +34,9 @@ Click here for a comprehensive walk through of the application [<i class="github
 
 <img class="ui large rounded image" src="/images/beach.png">
 
-<p>Here you can view my teammates portfolios here:
-[Isaac Demello(https://idemello.github.io/)]
-[Russell Omo(https://russellomo.github.io/)]
+Here you can view my teammates portfolios here:
+[Isaac Demello](https://idemello.github.io)
+[Russell Omo](https://russellomo.github.io)
 
 
 
