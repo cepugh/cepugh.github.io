@@ -36,8 +36,9 @@ Click here for a comprehensive walk through of the application [<i class="github
 
 <p>Here you can view my teammates portfolios here:</p>
 <a ref="https://idemello.github.io">Isaac Demello</a>
-<p>[Russell Omo](https://russellomo.github.io)</p>
-<p>Click here to view the code for the project [<i class="github icon"></i>Github-ChaseHawaii](https://github.com/chasehawaii/chasehawaii)</p>
+<a ref="https://russellomo.github.io">Russell Omo</a>
+Click here to view the code for the project
+<a ref="https://github.com/chasehawaii/chasehawaii"><i class="github icon"></i>Github-ChaseHawaii</a>
 
 ## Lessons learned
 <p> This application was completed as the final project for the class and I learned a great deal about web application development and working on a team in a software development capacity. All of the work was done using "Issue Driven Management" and managed through Github. The project was broken up into 3 milestones which let the team create and meet attainable goals. Each member worked in parallel slices on the application which allowed me to gain experience on front-end/UI development, database management, and backend Javascript development. This approach also allowed the team to work on different pieces of the application simultaneously without much conflict. This process worked out very well for our small team of three.</p>
