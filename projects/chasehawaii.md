@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/aloha.png
-title: Web application,ChaseHawaii
+title: ChaseHawaii Web Application
 permalink: 
 date: 2017
 labels:
@@ -27,7 +27,18 @@ Click here for a comprehensive walk through of the application [<i class="github
 <p>ChaseHawaii is a web application that I designed and created along with two other students in my ICS 314 (Software Engineering) class. The application was built using the Meteor platform which uses Javascript for both front and backend developement. The user interface for the application was constructed using HTML and UI semantic.</p>
 
 <p>I mostly worked on the "Items" pieces of the project which includes the Item's feed page, the Create Items, the Bucketlist and the cards on the profile page. This includes the underlying MongoDB collections.</p>
-Here you can view the contributions from my teammates:
+
+<img class="ui large rounded image" src="/images/itemfeed.png">
+
+<img class="ui large rounded image" src="/images/profile2.png">
+
+<img class="ui large rounded image" src="/images/beach.png">
+
+<p>Here you can view my teammates portfolios here:
+[Isaac Demello](https://idemello.github.io/)
+[Russell Omo](https://russellomo.github.io/)
+
+
 
 Click here to view the code for the project [<i class="github icon"></i>Github-ChaseHawaii](https://github.com/chasehawaii/chasehawaii)
 
