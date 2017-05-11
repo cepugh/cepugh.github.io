@@ -34,9 +34,12 @@ Click here for a comprehensive walk through of the application [<i class="github
 
 <img class="ui large centered rounded image" src="/images/beach.png">
 
-<p>Here you can view my teammates portfolios here:</p>
-<a ref="https://idemello.github.io">Isaac Demello</a>
-<a ref="https://russellomo.github.io">Russell Omo</a>
+Here are my team member's portfolios:
+
+<a href="https://russellomo.github.io">Russell Omo</a>
+
+<a href="https://idemello.github.io">Isaac Demello</a>
+
 Click here to view the code for the project
 <a ref="https://github.com/chasehawaii/chasehawaii"><i class="github icon"></i>Github-ChaseHawaii</a>
 
