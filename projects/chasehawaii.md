@@ -32,13 +32,11 @@ Click here for a comprehensive walk through of the application [<i class="github
 
 <img class="ui large centered rounded image" src="/images/profile2.png">
 
-<img class="ui large rounded image" src="/images/beach.png">
+<img class="ui large centered rounded image" src="/images/beach.png">
 
 <p>Here you can view my teammates portfolios here:</p>
-<p>[Isaac Demello](https://idemello.github.io)</p>
+<a ref="https://idemello.github.io">Isaac Demello</a>
 <p>[Russell Omo](https://russellomo.github.io)</p>
-
-
 <p>Click here to view the code for the project [<i class="github icon"></i>Github-ChaseHawaii](https://github.com/chasehawaii/chasehawaii)</p>
 
 ## Lessons learned
