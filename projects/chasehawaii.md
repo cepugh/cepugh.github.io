@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: images/aloha.png
-title: Web Application: ChaseHawaii
+title: Web application,ChaseHawaii
 permalink: 
 date: 2017
 labels:
   - Javascript
   - Meteor
+  - UI semantic
   - Github
-  - Ui semantic
   - Software Engineering
-summary: "Created a web application with a team of other ICS314 students"
+summary: "Created a web application using Meteor and Javascript as a ICS 314 project"
 ---
 
 things
