@@ -46,14 +46,31 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Python",
         "Javascript",
-        "Assembly"
+      ]
+    },
+     {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Meteor",
+        "Ui Semantic",
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "GitHub/Git",
+        "Ui Semantic",
+        "Unix",
+        "MacOS",
       ]
     }
   ],
