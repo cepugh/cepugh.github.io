@@ -24,7 +24,13 @@ summary: "Created a web application using Meteor and Javascript as a ICS 314 pro
 <img class="ui large rounded image" src="/images/profile2.png">
 
 
-For a comprehensive walk through of the application, [<i class="github icon"></i>ChaseHawaii](https://chasehawaii.github.io/)
+Click here for a comprehensive walk through of the application [<i class="github icon"></i>ChaseHawaii](https://chasehawaii.github.io/)
 
 ## Development of ChaseHawaii
-ChaseHawaii is a web application that I designed and created along with two other students in my ICS 314 (Software Engineering) class. The application was built using the Meteor framework and
+<p>ChaseHawaii is a web application that I designed and created along with two other students in my ICS 314 (Software Engineering) class. The application was built using the Meteor platform which uses Javascript for both front and backend developement. The user interface for the application was constructed using HTML and UI semantic.</p>
+
+Click here to view the code for the project [<i class="github icon"></i>Github-ChaseHawaii](https://github.com/chasehawaii/chasehawaii)
+
+## Lessons learned
+<p> This application was completed as the final project for the class and I learned a great deal about web application development and working on a team in a software development capacity. All of the work was done using "Issue Driven Management" and managed through Github. The project was broken up into 3 milestones which let the team create and meet attainable goals. Each member worked in parallel slices on the application which allowed me to gain experience on front-end/UI development, database management, and backend Javascript development. This approach also allowed the team to work on different pieces of the application simultaneously without much conflict. This process worked out very well for our small team of three.</p>
+
