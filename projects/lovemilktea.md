@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/aloha.png
-title: ChaseHawaii Web Application
+image: images/LMT.png
+title: LoveMilkTea: UH Map Application
 permalink: 
 date: 2017
 labels:
