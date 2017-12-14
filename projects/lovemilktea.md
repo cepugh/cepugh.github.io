@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/LMT.png
-title: LoveMilkTea: UH Mapping Application
+image: images/aloha.png
+title: ChaseHawaii Web Application
 permalink: 
 date: 2017
 labels:
   - Javascript
-  - Ionic
-  - Mobile
-  - HACC 2017
+  - Meteor
+  - UI semantic
+  - Github
   - Software Engineering
-summary: "Created a mobile mapping application that won the Hawaii Annual Code challenge"
+summary: "Created a web application using Meteor and Javascript as a ICS 314 project"
 ---
 
 ## About LoveMilkTea
