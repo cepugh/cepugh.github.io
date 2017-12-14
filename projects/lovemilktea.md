@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/LMT.png
-title: LoveMilkTea: UH Map Application
+title: LoveMilkTea - UH Map Application
 permalink: 
 date: 2017
 labels:
