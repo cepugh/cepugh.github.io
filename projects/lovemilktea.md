@@ -7,12 +7,13 @@ permalink:
 date: 2017
 labels:
   - Javascript
-  - Meteor
-  - UI semantic
-  - Github
+  - Ionic
+  - Mobile
+  - HACC 2017
   - Software Engineering
-summary: "Created a web application using Meteor and Javascript as a ICS 314 project"
+summary: "Created a mobile mapping application that won the Hawaii Annual Code challenge"
 ---
+
 
 ## About LoveMilkTea
 <p>description here</p>
