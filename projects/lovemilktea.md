@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/aloha.png
+image: images/LMT.png
 title: LoveMilkTea: UH Mapping Application
 permalink: 
 date: 2017
