@@ -28,6 +28,7 @@ Click here for a comprehensive walk through of the application [<i class="github
 <img class="ui large centered rounded image" src="/images/winning.jpg">
 
 ## Development of LoveMilkTea
+<p> LoveMilkTea was built using Ionic, which is an open-source SDK for hybrid mobile app development built on Angular. This means our team was able to easily create a web and mobile app from one code base, written in JavaScript, HTML, and CSS. We used the Google Maps API for our map and decided to stick with Google Firebase for authentication and databasing.  </p>
 
-## Lessons learned
+## My Contributions and Lessons learned
 <img class="ui large centered rounded image" src="/images/team.jpg">
