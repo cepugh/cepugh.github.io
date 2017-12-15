@@ -24,6 +24,8 @@ Click here for a comprehensive walk through of the application [<i class="github
 ## HACC 2017
 <p> In the fall of 2017, I took a ICS491 Special projects course that consisted of creating an app and entering the[Hawaii Annual Code Challenge](http://hacc.hawaii.gov/). I joined a team of 7 other UH ICS students and we took up the challenge, submitted by """ of creating an application that would make navigating a complicated campus, such as the UH campus, a bit easier. Our team set out to quickly put together a creative and effective solution to the problem in the short three weeks deadline. We pulled together a pretty decent working prototype and managed to win 1st place!
 </p>
+<img class="ui mini centered rounded image" src="/images/winning2.jpg">
+<img class="ui mini centered rounded image" src="/images/winning.jpg">
 
 ## Development of LoveMilkTea
 
