@@ -6,7 +6,7 @@
     "email": "cepugh@hawaii.edu",
     "phone": "",
     "website": "https://cepugh.github.io",
-    "summary": "I am a student at the University of Hawaii, studying for a B.S. in Computer Science in the Department of Information and Computer Sciences. I expect to graduate in 2018.",
+    "summary": "I am a student at the University of Hawaii, studying for a B.S. in Computer Science in the Department of Information and Computer Sciences. I expect to graduate in 2019 and look forward to pursuing my career as a software engineer!",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Cyber Security",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "Reverse Engineering",
+      "name": "Computer Vision",
       "keywords": [
       ]
     }
@@ -68,8 +68,7 @@
       "level": "",
       "keywords": [
         "GitHub/Git",
-        "Ui Semantic",
-        "Unix",
+        "Unix/Linux",
         "MacOS",
       ]
     }
@@ -77,7 +76,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected 2018)",
+      "area": "Computer Science (expected May 2019)",
       "studyType": "B.S.",
       "startDate": "",
       "endDate": "",
@@ -87,6 +86,18 @@
     }
   ],
   "work": [
+    {
+      "company": "Oceanit",
+      "position": "Software Engineer Intern - Summer Intern",
+      "website": "",
+      "startDate": "2018-05",
+      "endDate": "2018-08",
+      "summary": "",
+      "highlights": [
+        "Contributed to C++ modules for Oceanit’s Computer Vision software that increased functionality in viewing and analyzing images",
+        "Contributed to an application in Python that utilized Oceanit’s Computer Vision software to bring image analysis capabilities to the client"
+      ]
+    },
     {
       "company": "Booz Allen Hamilton",
       "position": "Cyber Intelligence Analyst",
