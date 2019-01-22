@@ -6,7 +6,7 @@
     "email": "cepugh@hawaii.edu",
     "phone": "",
     "website": "https://cepugh.github.io",
-    "summary": "I am a student at the University of Hawaii, studying for a B.S. in Computer Science in the Department of Information and Computer Sciences. I expect to graduate in 2019 and look forward to pursuing my career as a software engineer!",
+    "summary": "I am a student at the University of Hawaii, studying for a B.S. in Computer Science. I expect to graduate in 2019 and look forward to pursuing my career as a software engineer!",
     "location": {
       "address": "",
       "postalCode": "",
@@ -88,7 +88,7 @@
   "work": [
     {
       "company": "Oceanit",
-      "position": "Software Engineer Intern - Summer Intern",
+      "position": "Software Engineer - Summer Intern",
       "website": "",
       "startDate": "2018-05",
       "endDate": "2018-08",
